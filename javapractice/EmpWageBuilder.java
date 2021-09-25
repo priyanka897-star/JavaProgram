@@ -26,7 +26,7 @@ public class EmpWageBuilder {
 		 default:
 			empHrs = 0;
 		}
-		System.out.println(empWage);
+		System.out.println("Daily Employee Wage:"+empWage);
 		}
 	}
 		
